@@ -10,7 +10,7 @@
 
 ## 🚀 Launch Security Portal
 Access the integrated security dashboard through our gateway:
-👉 **[Open Dev'Hunter Security Dashboard](https://devhunter-git.github.io/live-cyber-threat-map-indobsd/)**
+👉 **[Open Dev'Hunter Security Dashboard](https://devhuntersecurity.github.io/live-cyber-threat-map-indobsd/)**
 
 ---
 
